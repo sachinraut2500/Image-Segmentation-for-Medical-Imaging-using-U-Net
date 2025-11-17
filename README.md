@@ -19,7 +19,7 @@ This project demonstrates binary image segmentation using the U-Net architecture
 - Skip connections for fine-grained localization
 - Final activation: `sigmoid` for binary mask
 
---------
+--------------
 
 ## ⚙️ Requirements
 
