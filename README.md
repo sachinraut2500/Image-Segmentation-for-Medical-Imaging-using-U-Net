@@ -11,7 +11,7 @@ This project demonstrates binary image segmentation using the U-Net architecture
   - [Kaggle Lung Segmentation](https://www.kaggle.com/kmader/finding-lungs-in-ct-data)
   - [ISIC Skin Lesion Segmentation](https://www.isic-archive.com)
 
-------------------
+-------------------------
 
 ##  Model: U-Net
 
