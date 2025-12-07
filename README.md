@@ -2,7 +2,7 @@
 
 This project demonstrates binary image segmentation using the U-Net architecture, widely used in medical imaging tasks like tumor detection, organ localization, etc.
 ---------
----
+---------
 -----
 ## 📦 Data
 
